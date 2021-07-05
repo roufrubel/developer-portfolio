@@ -58,7 +58,8 @@ h2{
 
 #web-dev-experience{
     border-left: 7px solid;
-    border-image: linear-gradient(blue, cyan);border-image-slice: 1;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
 }
 #rouf{
     text-align: center;
